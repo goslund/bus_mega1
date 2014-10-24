@@ -1,0 +1,6 @@
+[submodule "NeoPixel"]
+	path = NeoPixel
+	url = git@github.com:opensourcegarden/NeoPixel.git
+[submodule "SlaveWireTools"]
+	path = SlaveWireTools
+	url = git@github.com:goslund/SlaveWireTools.git
